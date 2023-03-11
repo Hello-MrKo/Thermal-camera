@@ -1,7 +1,11 @@
 # Thermal-camera
 
 Arduino mega 2560
+
+
 MLX90640
+
+
 Labview
 
 
