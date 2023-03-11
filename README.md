@@ -1,11 +1,19 @@
 # Thermal-camera
 
-Arduino mega 2560
+1. Hardware
+  Arduino mega 2560  
+  MLX90640
+  
+  
+2. Youtube
+  https://youtu.be/uKFLGD_0Xn4
+  
+  
+3. Ref. 
+
+https://forums.ni.com/t5/%E5%8C%97%E6%9D%B1%E5%8C%97-LabVIEW%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E4%BC%9A/LattePanda-Alpha%E3%81%AB32x24%E7%94%BB%E7%B4%A0%E3%81%AE%E8%B5%A4%E5%A4%96%E7%B7%9A%E6%B8%A9%E5%BA%A6%E3%82%BB%E3%83%B3%E3%82%B5-MLX90640%E3%82%92%E6%8E%A5%E7%B6%9A%E3%81%97%E3%81%A6LabVIEW%E3%81%A7%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%E6%84%9F%E6%83%B3/td-p/3931649
 
 
-MLX90640
 
 
 
-
-https://youtu.be/uKFLGD_0Xn4
